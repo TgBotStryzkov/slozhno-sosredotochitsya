@@ -1,4 +1,4 @@
-https://github.com/TgBotStryzkov/slozhno-sosredotochitsya
+https://github.com/TgBotStryzkov/slozhno-sosredotochitsya-ad
 # Яндекс Практикум, проектная работа "Сложно сосредоточиться"
 
 ## Оглавление
